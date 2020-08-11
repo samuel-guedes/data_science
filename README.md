@@ -17,7 +17,6 @@ Meu portifólio de projetos criados durante meus estudos de Data Science
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 
 ---

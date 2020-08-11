@@ -13,7 +13,7 @@ Meu portifólio de projetos criados durante meus estudos de Data Science
 **Background in:** MBA em Gestão Empresarial, Python, Power BI, Processo SMT.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/samuelguedes)
+* [LinkedIn](https://www.linkedin.com/in/samueluguedes)
 
 
 ## Projetos:

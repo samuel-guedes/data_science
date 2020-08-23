@@ -17,7 +17,7 @@ Meu portifólio de projetos criados durante meus estudos de Data Science.
 
 ## Projetos:
 
-
+* Análise de Renda: previsão de renda anual por classificação (≤50k ou >50k) - [https://bit.ly/3aNTMxj](https://bit.ly/3aNTMxj)
 ---
 
 

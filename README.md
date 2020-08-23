@@ -1,5 +1,3 @@
-# data_science
-
 <p align="center">
   <img src="banner-4.jpeg" >
 </p>

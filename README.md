@@ -8,7 +8,10 @@
 # Samuel Guedes
 <sub>*Program Manager* na Aptiv</sub>
 
-Meu portifólio de projetos criados durante meus estudos de Data Science.
+Formado em Engenharia de Telecomunicações pela Universidade de Taubaté e MBA em Gestão Empresarial pela FVG com 15 anos de experiencia passando por área de Engenharia de Processo, Desenvolvimento de Produto e Testes.
+No final do ano passado comecei novos desafios na área de Gerenciamento de Projetos focado em elaboração e análise de Business Cases, cotações e gestão de custos. Com esta oportunidade iniciei estudo na área de análise de dados com Power BI, Python e estatística.
+O principal intuito deste perfil é registrar e compartilhar a evolução dos estudos nesta área.
+
 
 **Background:** MBA em Gestão Empresarial, Python, Power BI, Processo SMT.
 

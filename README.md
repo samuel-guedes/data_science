@@ -23,8 +23,6 @@ O principal intuito deste perfil é registrar e compartilhar a evolução dos es
 
 ## Projetos:
 
-* **Análise de Renda:** previsão de renda anual por **classificação** (≤50k ou >50k) - [https://bit.ly/3aNTMxj](https://bit.ly/3aNTMxj)
-* **Análise de ENEM 2019:** análise realizada durante Imersão Dados - ALURA - [https://bit.ly/3oAXJMm](https://bit.ly/3oAXJMm)
 * **Store Sales Prediction:**  - [https://bit.ly/3pZ8XuO](https://bit.ly/3pZ8XuO)
 
 ---

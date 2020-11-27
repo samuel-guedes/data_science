@@ -6,24 +6,26 @@
 </p>
 
 # Samuel Guedes
-<sub>*Program Manager* na Aptiv</sub>
-
-Formado em Engenharia de Telecomunicações pela Universidade de Taubaté e MBA em Gestão Empresarial pela FVG com 15 anos de experiência passando por área de Engenharia de Processo, Desenvolvimento de Produto e Testes.
-
-No final do ano passado iniciei novos desafios na área de Gerenciamento de Projetos focado em elaboração e análise de Business Cases, cotações e gestão de custos. Com esta oportunidade iniciei estudo na área de análise de dados com Power BI, Python e estatística.
-
-O principal intuito deste perfil é registrar e compartilhar a evolução dos estudos nesta área.
+<sub>*Project Engineer* at Aptiv</sub>
 
 
-**Background:** MBA em Gestão Empresarial, Python, Power BI, Processo SMT.
+Graduated in Telecommunications Engineering at Universidade de Taubaté and an MBA in Business Management at FGV with 15 years of experience in Process Engineering, Product Development and Tests.
+
+At the end of last year, I started new challenges in Project Management focused on preparing and analyzing Business Cases, quotations and project cost management. Then I got interested in Data Analysis with Power BI, Python and statistics as tools to control and improve my skills.
+
+
+The main purpose of this profile is to record and share the evolution of studies in Data Science.
+
+
+**Background:** MBA in Business Management, Python, Power BI, SMT Process
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/samueluguedes)
 
 
-## Projetos:
+## My projects:
 
-* **Store Sales Prediction:**  - [https://bit.ly/3pZ8XuO](https://bit.ly/3pZ8XuO)
+* **Store Sales Prediction:**  - This project is under development while I am taking course Data Science em Producao  [https://bit.ly/3pZ8XuO](https://bit.ly/3pZ8XuO)
 
 ---
 

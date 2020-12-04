@@ -25,7 +25,7 @@ The main purpose of this profile is to record and share the evolution of studies
 
 ## My projects:
 
-* **Store Sales Prediction:**  - This project is under development while I am taking course Data Science em Producao  [https://bit.ly/3pZ8XuO](https://bit.ly/3pZ8XuO)
+* **Store Sales Prediction:**  - This project is under development while I am taking course Data Science em Producao  [https://bit.ly/2VERjyc](https://bit.ly/2VERjyc)
 
 ---
 
